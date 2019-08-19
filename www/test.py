@@ -7,6 +7,8 @@ async def test(loop):
 
     #u = User(id=12138, name='Test', email='test@example.com', passwd='1234567890', image='about:blank')
     #await u.save()
+    #u = User(id=1, name='Sun', email='565425677@qq.com', passwd='7758521', image='about:blank')
+    #await u.save()
     #
     #user=await User.find('12138')
     #print(user)
